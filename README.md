@@ -1,6 +1,6 @@
 # Simple-port-scanner
 port scanner (Python)
-# TITUS Port Scanner 
+#  Port Scanner 
 
 A simple TCP port scanner written in Python for learning and educational purposes.  
 This tool scans a target IP address and identifies open ports along with their common services.
