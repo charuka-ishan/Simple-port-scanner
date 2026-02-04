@@ -48,7 +48,7 @@ This tool scans a target IP address and identifies open ports along with their c
 1. Clone the repository:
 ```bash
 git clone https://github.com//charuka-ishan/Simple-port-scanner.git
-cd titus-port-scanner
+
 ```
 ## Run Scanner 
 python scanner.py
